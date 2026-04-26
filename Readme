@@ -2,7 +2,7 @@
 
 This project was inspired by the idea of secret identities and undercover agents, similar to *Spy x Family*, where everyday life and hidden missions coexist.
 
-![Secret_Code](Secret-Code/Secret-Code.png)
+![Secret_Code](Images1/Code.png)
 
 ## Overview
 
@@ -22,6 +22,6 @@ The program:
 3. Converts some values into ASCII characters  
 4. Displays the decoded identity and time
 
-![Termninal](Secret-Code/Terminal.png)
+![Termninal](Images1/Terminal.png)
 
 All of this is done **without using strings, conditionals, or loops**, focusing purely on logic and number manipulation.
